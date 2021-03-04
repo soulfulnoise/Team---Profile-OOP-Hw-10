@@ -1,0 +1,32 @@
+{
+  "name": "team---profile-oop-hw-10",
+  "version": "1.0.0",
+  "description": "A Node.js command-line app that takes \u0016n information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulfulnoise/Team---Profile-OOP-Hw-10.git"
+  },
+  "keywords": [
+    "jest",
+    "inquirer",
+    "OOP",
+    "require"
+  ],
+  "author": "Lee Spaulding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulfulnoise/Team---Profile-OOP-Hw-10/issues"
+  },
+  "homepage": "https://github.com/soulfulnoise/Team---Profile-OOP-Hw-10#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
